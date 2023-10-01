@@ -8,7 +8,6 @@ Welcome to the "Guess the Color by Name" game repository! This is a web-based ga
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [How to Play](#how-to-play)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Demo
